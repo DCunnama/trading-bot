@@ -5,4 +5,5 @@ A skeletal Python bot that will evolve with the help of OpenAI Codex.
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-
+python -m tradingbot.main
+```
