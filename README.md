@@ -22,3 +22,12 @@ Finally, run the placeholder bot:
 python main.py
 ```
 
+```
+
+## Disclaimer
+
+This repository is provided for **educational purposes only** and does not
+constitute financial advice. Trading cryptocurrencies or other assets carries
+significant risk. Please thoroughly test any strategies using paper trading or
+demo accounts before committing real funds.
+
